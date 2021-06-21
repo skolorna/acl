@@ -1,0 +1,2 @@
+# The following email domains may be used on skolorna.com.
+elevmail.stockholm.se
